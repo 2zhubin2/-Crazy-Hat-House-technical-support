@@ -1,2 +1,3 @@
 # -Crazy-Hat-House-technical-support
 “Crazy Hat House”technical support
+"Crazy Hat House" is a special application for the purchase of hat products. We classify various types of hats, which is convenient for users to quickly select their desired hat styles. We also provide shopping cart function to enable users to operate products in batches. We also provide address editing function. Users can freely add their own addresses. In the address list, users can select to delete or edit addresses by left stroke, which is convenient for users to use...For any comments and suggestions, please contact us: "Crazy Hat House" official email:huayixianke@163.com
